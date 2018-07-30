@@ -1,0 +1,11 @@
+@font-face {
+  src: url('_assets/AvenirNext_Variable.woff2');
+  font-family:'Avenir';
+  font-style: normal;
+}
+.variable {
+  font-family: 'Avenir';
+  font-size: 64px;
+  text-shadow: 0 0 0 #000;   
+  text-align: center;
+}
